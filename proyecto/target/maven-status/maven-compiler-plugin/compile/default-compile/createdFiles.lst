@@ -1,0 +1,4 @@
+com\miaplicacion\proyecto\ProyectoApplication.class
+com\miaplicacion\proyecto\service\PersonaService.class
+com\miaplicacion\proyecto\repository\PersonaRepository.class
+com\miaplicacion\proyecto\model\Persona.class
